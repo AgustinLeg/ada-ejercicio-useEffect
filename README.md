@@ -1,6 +1,6 @@
 # Ejercicio useEffect - API 🛒
 
-### [Demo](https://ada-ejercicio-useEffect.vercel.app/#)
+### [Demo](https://ada-ejercicio-use-effect.vercel.app/#)
 
 ## Tareas que debe cumplir
 
