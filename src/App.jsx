@@ -19,7 +19,7 @@ import {
 import { Card } from "./components/character/Card";
 import { Filter } from "./components/filter";
 
-function App() {
+const App = () => {
   const [characters, setCharacters] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(false);
@@ -110,6 +110,6 @@ function App() {
       </VStack>
     </VStack>
   );
-}
+};
 
 export default App;
