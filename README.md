@@ -8,7 +8,7 @@
 - Listar los personajes.
 - Cada personaje tiene un indicador con color segun su "status" (dead = rojo / alive = green / unknown = white)
 - Debe contar con un Spinner para la busqueda de los personajes.
-- Un buscador que filtre por el nombre del personaje, 2 select que filtren por su estado y genero (pueden estar aplicados todos los filtros a la vez)
+- Un buscador que filtre por el nombre del personaje, 2 select que filtren por su estado y genero (pueden estar aplicados todos los filtros a la vez). El filtro se debe aplicar con la api y no usar el metodo ```.filter```
 - En caso de que haya un error o no se encuentren personajes mostrar una alerta.
 - Crear un paginado (si la pagina === 1 el boton de < debe estar desactivado, en cambio si llegamos a la cantidad total de paginas el boton > debe estar desactivado)
 
